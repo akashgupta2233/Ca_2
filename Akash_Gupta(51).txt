@@ -3,3 +3,4 @@ Student name : Akash Gupta
 Registration no.: 12223411
 Roll no. 51
 Father's Name: Ajresh Gupta
+Area of Specilization: CSE
